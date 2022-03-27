@@ -3,7 +3,7 @@
 This idea has been holding my brain hostage, I hope that implementing it will restore my free will.
 
 ```
-🗨️ The canonical game of life function, called LI (Lithuania)
+🗨️ The canonical game of life function, called LI (Liechtenstein)
 🇱🇮🪧🌜👍👍➊ 🤔🛶🔴🐜➌ ➍⚖️🧮🤰😍🥶➊ ⓿ ➊🤐🔴🤣🥶➊ ⓿ ➊🤐🔴🙃🪺🤔🌛
 
 🗨️ An array containing a glider, called GL (Greenland)
