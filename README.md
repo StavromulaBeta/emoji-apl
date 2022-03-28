@@ -172,7 +172,7 @@ The parens are parents.
 I don't know.
 
 ### An Emoji programming language already exists(?)
-Yes, but [Emojicode](www.emojicode.org) is a traditional programming language, not an APL - where's the fun in that?
+Yes, but [Emojicode](https://www.emojicode.org) is a traditional programming language, not an APL - where's the fun in that?
 
 ### How do I install this?
 Make sure you have a C compiler and GNU APL, then run `make` and then `sudo make install`. The command to invoke the repl is `🙂apl` and you can pipe output to the repl such as `cat life.🙂apl | 🙂apl`.
